@@ -11,6 +11,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 06 - Downloading IDE Intellij Community
 1. [x] Java One For All 07 - First steps with Intellij
 1. [x] Java One For All 08 - Organizing the code in packages
+1. [x] Java One For All 09 - Comments
 
 ---
 
