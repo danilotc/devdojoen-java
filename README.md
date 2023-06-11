@@ -1,0 +1,15 @@
+# Java Course with DevDojo
+
+Hello, I am studying a Java course for free. It is Java One For All, a wonderful course created and made available on Youtube by William. 
+This course is helping me to train my ear with studying English as well. Thanks William!
+
+1. [x] Java One For All 01 - Welcome
+1. [x] Java One For All 02 - Who is this course for
+1. [x] Java One For All 03 - How Java Works
+1. [x] Java One For All 04 - Downloading JDK 15
+1. [x] Java One For All 05 - Configuring environment variables
+1. [x] Java One For All 06 - Downloading IDE Intellij Community
+
+---
+
+_Credits: [DevDojoAcademy](https://www.youtube.com/@DevDojoAcademy)_
