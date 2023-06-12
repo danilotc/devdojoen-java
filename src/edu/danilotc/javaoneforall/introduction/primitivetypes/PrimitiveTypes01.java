@@ -23,6 +23,9 @@ public class PrimitiveTypes01 {
         // ascii table value: 87 for W, 65 for A, 95 for _
         char charValueWithUniqueCaracter = '\u0041';
 
+        // this is not primitive type, it is object type
+        String name = "John";
+
         System.out.println("intNumber: "+intNumber);
         System.out.println("longNumber: "+longNumber);
         System.out.println("shortNumber: "+shortNumber);
@@ -32,5 +35,6 @@ public class PrimitiveTypes01 {
         System.out.println("booleanValueTrue: "+booleanValueTrue);
         System.out.println("booleanValueFalse: "+booleanValueFalse);
         System.out.println("charValueWithUniqueCaractere: "+charValueWithUniqueCaracter);
+        System.out.println("valueString: "+name);
     }
 }

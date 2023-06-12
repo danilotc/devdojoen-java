@@ -15,6 +15,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 10 - Primitive types pt 01 - naming convention for variables
 1. [x] Java One For All 11 - Primitive types pt 02 - declaring variables and size in memory
 1. [x] Java One For All 12 - Primitive types pt 03 - casting
+1. [x] Java One For All 13 - Primitive types pt 04 - Strings
 
 ---
 
