@@ -12,6 +12,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 07 - First steps with Intellij
 1. [x] Java One For All 08 - Organizing the code in packages
 1. [x] Java One For All 09 - Comments
+1. [x] Java One For All 10 - Primitive types pt 01 - naming convention for variables
 
 ---
 
