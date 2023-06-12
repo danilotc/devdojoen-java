@@ -5,13 +5,13 @@ public class PrimitiveTypes01 {
         // int, long, byte, short, double, float, char, boolean
 
         // integer primitive types
-        int intNumber = 10;
-        long longNumber = 100000L;
+        int intNumber = (int) 10000000000L; // cast long to int
+        long longNumber = (long) 155.82D; // cast double to long
         short shortNumber = 29;
         byte byteNumber = 39;
 
         // real primitive types with decimal point
-        float floatNumber = 2500.0F;
+        float floatNumber = (float) 2500.0; // cast double to float
         double doubleNumber = 5000.0D;
 
         // logic primitive type
