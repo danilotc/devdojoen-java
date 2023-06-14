@@ -20,6 +20,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 15 - Operators pt 01 - Arithmetic
 1. [x] Java One For All 16 - Operators pt 02 - Relational
 1. [x] Java One For All 17 - Operators pt 03 - Logical AND
+1. [x] Java One For All 18 - Operators pt 04 - Logical OR
 
 ---
 
