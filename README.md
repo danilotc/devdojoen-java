@@ -18,6 +18,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 13 - Primitive types pt 04 - Strings
 1. [x] Java One For All 14 - Primitive types pt 05 - Exercise
 1. [x] Java One For All 15 - Operators pt 01 - Arithmetic
+1. [x] Java One For All 16 - Operators pt 02 - Relational
 
 ---
 
