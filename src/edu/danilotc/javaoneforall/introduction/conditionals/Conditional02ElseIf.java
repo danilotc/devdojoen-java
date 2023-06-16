@@ -16,6 +16,9 @@ public class Conditional02ElseIf {
             category = "Category Master";
         }
 
+        // Don't use ternary operator if you have two or more conditionals, It's not a good practice.
+        category = age < 15 ? "Category Junior" : age >= 15 && age < 18? "Category Senior" : "Category Master";
+
         System.out.println(category);
     }
 }
