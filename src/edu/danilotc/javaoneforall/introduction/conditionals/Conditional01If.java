@@ -7,6 +7,8 @@ public class Conditional01If {
 
         if(isAllowedToBuyAlcohol){
             System.out.println("Authorized to buy alcohol");
+        } else {
+            System.out.println("Sorry, you are not allowed to buy alcohol");
         }
 
         if(!isAllowedToBuyAlcohol){

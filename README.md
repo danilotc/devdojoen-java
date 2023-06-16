@@ -23,6 +23,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 18 - Operators pt 04 - Logical OR
 1. [x] Java One For All 19 - Operators pt 05 - Assignment
 1. [x] Java One For All 20 - Conditional Statement pt 01 - IF
+1. [X] Java One For All 21 - Conditional Statement pt 02 - ELSE IF
 
 ---
 
