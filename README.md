@@ -26,6 +26,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [X] Java One For All 21 - Conditional Statement pt 02 - ELSE IF
 1. [x] Java One For All 22 - Condicional Statement pt 03 - Ternary Operator
 1. [x] Java One For All 23 - Conditional Statement pt 04 - Truth Table
+1. [x] Java One For All 24 - Conditional Statement pt 05 - Tax Bracket exercise solution
 
 ---
 
