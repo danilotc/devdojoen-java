@@ -28,6 +28,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 23 - Conditional Statement pt 04 - Truth Table
 1. [x] Java One For All 24 - Conditional Statement pt 05 - Tax Bracket exercise solution
 1. [x] Java One For All 25 - Conditional Statement pt 06 - Switch
+1. [x] Java One For All 26 - Conditional Statement pt 07 - Switch exercise
 
 ---
 
