@@ -30,6 +30,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 25 - Conditional Statement pt 06 - Switch
 1. [x] Java One For All 26 - Conditional Statement pt 07 - Switch exercise
 1. [x] Java One For All 27 - Loop pt 01 - while, do while, for
+1. [x] Java One For All 28 - Loop pt 02 - Exercise for
 
 ---
 
