@@ -35,6 +35,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 30 - Loop pt 04 - Exercise break
 1. [x] Java One For All 31 - Loop pt 05 - Continue
 1. [x] Java One For All 32 - Arrays pt 01
+1. [x] Java One For All 33 - Arrays pt 02
 
 ---
 
