@@ -38,6 +38,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 33 - Arrays pt 02
 1. [x] Java One For All 34 - Arrays pt 03
 1. [x] Java One For All 35 - Arrays pt 04 - Foreach
+1. [x] Java One For All 36 - Multidimensional Arrays pt 01
 
 ---
 
