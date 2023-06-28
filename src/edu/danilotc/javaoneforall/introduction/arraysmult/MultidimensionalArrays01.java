@@ -25,5 +25,13 @@ public class MultidimensionalArrays01 {
                 System.out.println(days[i][j]);
             }
         }
+
+        // External structure: For each line in days, construct one array called baseArray.
+        // Internal structure: For each day in baseArray, print day.
+        for (int[] baseArray : days) {
+            for (int day : baseArray) {
+                System.out.println(day);
+            }
+        }
     }
 }
