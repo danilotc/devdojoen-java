@@ -19,6 +19,9 @@ public class CarTest {
         car2.model = "GT 500";
         car2.year = 1968;
 
+        // This changes the object reference
+        car1 = car2;
+
         System.out.println("Car 1");
         System.out.println(car1.name);
         System.out.println(car1.model);
