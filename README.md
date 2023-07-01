@@ -43,6 +43,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 38 - Multidimensional Arrays pt 03 - Initialization
 1. [x] Java One For All 39 - Object Orientation - Introduction to classes pt 01
 1. [x] Java One For All 40 - Object Orientation - Introduction to classes pt 02
+1. [x] Java One For All 41 - Object Orientation - Cohesion
 
 ---
 
