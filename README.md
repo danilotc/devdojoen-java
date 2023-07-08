@@ -55,6 +55,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 50 - Object Orientation - Methods pt 07 - Reference Parameters pt 02
 1. [x] Java One For All 51 - Object Orientation - Methods pt 08 - Reference this
 1. [x] Java One For All 52 - Object Orientation - Methods pt 09 - Varargs
+1. [x] Java One For All 53 - Object Orientation - Methods pt 10 - Exercise
 
 ---
 
