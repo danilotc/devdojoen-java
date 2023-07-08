@@ -47,6 +47,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 42 - Object Orientation - Classes Exercise
 1. [x] Java One For All 42 - Object Orientation - Object Reference
 1. [x] Java One For All 44 - Object Orientation - Methods pt 01
+1. [x] Java One For All 45 - Object Orientation - Methods pt 02 - Parameters
 
 ---
 
