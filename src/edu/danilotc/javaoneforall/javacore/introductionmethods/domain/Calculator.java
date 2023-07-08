@@ -19,4 +19,27 @@ public class Calculator {
         }
         return number1 / number2;
     }
+
+    public double divideTwoNumbers02(double number1, double number2) {
+        if (number2 == 0) {
+            return 0;
+        } else {
+            return number1 / number2;
+        }
+    }
+
+    public double divideTwoNumbers03(double number1, double number2) {
+        if (number2 != 0) {
+            return number1 / number2;
+        }
+        return 0;
+    }
+
+    public void printTwoNumbersDivide(double number1, double number2) {
+        if (number2 == 0) {
+            System.out.println("Can't divide by 0");
+            return;
+        }
+        System.out.println(number1 / number2);
+    }
 }
