@@ -51,6 +51,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 46 - Object Orientation - Methods pt 03 - Return pt 01
 1. [x] Java One For All 47 - Object Orientation - Methods pt 04 - Return pt 02
 1. [x] Java One For All 48 - Object Orientation - Methods pt 05 - Primitive Types Parameters
+1. [x] Java One For All 49 - Object Orientation - Methods pt 06 - Reference Parameters pt 01
 
 ---
 
