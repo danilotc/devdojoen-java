@@ -50,4 +50,21 @@ public class Calculator {
         System.out.println("Number1 = " + number1);
         System.out.println("Number2 = " + number2);
     }
+
+    public void sumArray(int[] numbers) {
+        int sum = 0;
+        for (int number : numbers) {
+            sum += number;
+        }
+        System.out.println(sum);
+    }
+
+    // It can has other parameters before
+    public void sumVarArgs(int... numbers) {
+        int sum = 0;
+        for (int number : numbers) {
+            sum += number;
+        }
+        System.out.println(sum);
+    }
 }
