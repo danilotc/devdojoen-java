@@ -42,4 +42,12 @@ public class Calculator {
         }
         System.out.println(number1 / number2);
     }
+
+    public void changeTwoNumbers(int number1, int number2) {
+        number1 = 99;
+        number2 = 33;
+        System.out.println("Inside changeTwoNumbers");
+        System.out.println("Number1 = " + number1);
+        System.out.println("Number2 = " + number2);
+    }
 }
