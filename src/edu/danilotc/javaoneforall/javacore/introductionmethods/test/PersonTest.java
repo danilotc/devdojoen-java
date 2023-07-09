@@ -9,7 +9,6 @@ public class PersonTest {
         person.setName("Jiraya");
         person.setAge(70);
 
-        System.out.println(person.getName());
-        System.out.println(person.getAge());
+        person.print();
     }
 }

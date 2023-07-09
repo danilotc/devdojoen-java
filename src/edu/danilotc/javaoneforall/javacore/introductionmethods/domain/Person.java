@@ -5,8 +5,8 @@ public class Person {
     private int age;
 
     public void print() {
-        System.out.println(this.name);
-        System.out.println(this.age);
+        System.out.println(getName());
+        System.out.println(getAge());
     }
 
     public String getName() {
