@@ -60,6 +60,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 55 - Object Orientation - Access Modifier private, get and set pt 02
 1. [x] Java One For All 56 - Object Orientation - Access Modifier private, get and set pt 03
 1. [x] Java One For All 57 - Object Orientation - Overloading methods
+1. [x] Java One For All 58 - Object Orientation - Constructors pt 01
 
 ---
 
