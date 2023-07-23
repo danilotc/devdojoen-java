@@ -4,7 +4,7 @@ public class Car {
     private String name;
     private double maxSpeed;
 
-    public static double speedLimit = 250;
+    private static double speedLimit = 250;
 
     public Car(String name, double maxSpeed) {
         this.name = name;
@@ -32,5 +32,13 @@ public class Car {
 
     public void setMaxSpeed(double maxSpeed) {
         this.maxSpeed = maxSpeed;
+    }
+
+    public static double getSpeedLimit() {
+        return Car.speedLimit;
+    }
+
+    public static void setSpeedLimit(double speedLimit) {
+        Car.speedLimit = speedLimit;
     }
 }
