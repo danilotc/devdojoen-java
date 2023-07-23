@@ -63,6 +63,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 58 - Object Orientation - Constructors pt 01
 1. [x] Java One For All 59 - Object Orientation - Constructors pt 02 - Overloging
 1. [x] Java One For All 60 - Object Orientation - Instance Initialization Block
+1. [x] Java One For All 61 - Object Orientation - Static modifier
 
 ---
 
