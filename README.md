@@ -66,6 +66,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 61 - Object Orientation - Static modifier
 1. [x] Java One For All 62 - Object Orientation - Static methods
 1. [x] Java One For All 63 - Object Orientation - Static Initialization block
+1. [x] Java One For All 64 - Object Orientation - Association pt 01 - Arrays with objects
 
 ---
 
