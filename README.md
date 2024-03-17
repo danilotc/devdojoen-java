@@ -72,6 +72,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 67 - Object Orientation - Association pt 04 - Bidirectional association
 1. [x] Java One For All 68 - Object Orientation - Reading data from the keyboard
 1. [x] Java One For All 69 - Object Orientation - Exercise reading data from keyboard
+1. [x] Java One For All 70 - Object Orientation - Association pt 05 - Exercise association
 
 ---
 
