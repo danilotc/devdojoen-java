@@ -70,6 +70,8 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 65 - Object Orientation - Association pt 02 - Unidirectional association one to many
 1. [x] Java One For All 66 - Object Orientation - Association pt 03 - Unidirectional association many to one
 1. [x] Java One For All 67 - Object Orientation - Association pt 04 - Bidirectional association
+1. [x] Java One For All 68 - Object Orientation - Reading data from the keyboard
+
 ---
 
 _Credits: [DevDojoAcademy](https://www.youtube.com/@DevDojoAcademy)_
