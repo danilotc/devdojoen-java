@@ -3,6 +3,10 @@ package edu.danilotc.javaoneforall.javacore.Hinheritance.domain;
 public class Manager extends Employee {
     private String department;
 
+    public Manager(String name) {
+        super(name);
+    }
+
     @Override
     public void print() {
         super.print();

@@ -76,6 +76,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 71 - Object Orientation - Inheritance pt 01
 1. [x] Java One For All 72 - Object Orientation - Inheritance pt 02 - super
 1. [x] Java One For All 73 - Object Orientation - Inheritance pt 03 - protected
+1. [x] Java One For All 74 - Object Orientation - Inheritance pt 04 - Constructors
 
 ---
 
