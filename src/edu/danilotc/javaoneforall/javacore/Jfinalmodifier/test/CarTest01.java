@@ -1,4 +1,4 @@
-package edu.danilotc.javaoneforall.javacore.test;
+package edu.danilotc.javaoneforall.javacore.Jfinalmodifier.test;
 
 import edu.danilotc.javaoneforall.javacore.Jfinalmodifier.domain.Car;
 import edu.danilotc.javaoneforall.javacore.Jfinalmodifier.domain.Ferrari;
