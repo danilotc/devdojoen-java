@@ -80,6 +80,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 75 - Object Orientation - Inheritance pt 05 - Initialization order
 1. [x] Java One For All 76 - Object Orientation - Overriding toString
 1. [x] Java One For All 77 - Object Orientation - Final Modifier pt 01 - Primitive types
+1. [x] Java One For All 78 - Object Orientation - Final Modifier pt 02 - Reference types
 
 ---
 
