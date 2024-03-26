@@ -82,6 +82,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 77 - Object Orientation - Final Modifier pt 01 - Primitive types
 1. [x] Java One For All 78 - Object Orientation - Final Modifier pt 02 - Reference types
 1. [x] Java One For All 79 - Object Orientation - Final Modifier pt 03 - Classes and methods
+1. [x] Java One For All 80 - Object Orientation - Enumeration pt 01 - Introduction
 
 ---
 
