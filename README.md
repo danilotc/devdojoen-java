@@ -84,6 +84,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 79 - Object Orientation - Final Modifier pt 03 - Classes and methods
 1. [x] Java One For All 80 - Object Orientation - Enumeration pt 01 - Introduction
 1. [x] Java One For All 81 - Object Orientation - Enumeration pt 02 - Attributes and Constructors
+1. [x] Java One For All 82 - Object Orientation - Enumeration pt 03 - Overriding methods
 
 ---
 
