@@ -86,6 +86,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 81 - Object Orientation - Enumeration pt 02 - Attributes and Constructors
 1. [x] Java One For All 82 - Object Orientation - Enumeration pt 03 - Overriding methods
 1. [x] Java One For All 83 - Object Orientation - Enumeration pt 03 - Getting enumeration by attribute
+1. [x] Java One For All 84 - Object Orientation - Abstract classes pt 01
 
 ---
 
