@@ -88,6 +88,7 @@ This course is helping me to train my ear with studying English as well. Thanks 
 1. [x] Java One For All 83 - Object Orientation - Enumeration pt 03 - Getting enumeration by attribute
 1. [x] Java One For All 84 - Object Orientation - Abstract classes pt 01
 1. [x] Java One For All 85 - Object Orientation - Abstract classes pt 02 - Abstract methods
+1. [x] Java One For All 86 - Object Orientation - Abstract classes pt 03 - Abstract methods rules
 
 ---
 
